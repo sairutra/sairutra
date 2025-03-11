@@ -19,8 +19,8 @@
 ---
 
 <p>
-<img  src = "https://github-readme-stats.vercel.app/api?username=abdi-29&theme=tokyonight">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=abdi-29&theme=tokyonight" />
+<img  src = "https://github-readme-stats.vercel.app/api?username=sairutra&theme=tokyonight">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sairutra&theme=tokyonight" />
 </p>
 
 ---
